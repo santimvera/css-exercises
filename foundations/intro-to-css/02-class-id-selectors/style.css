@@ -1,0 +1,19 @@
+#secondElement {
+    color: rgb(5, 5, 243);
+    font-size: 36px;
+}
+
+#fourthElement {
+    font-size: 24px;
+    background-color: rgb(170, 241, 170);
+    font-weight: 700;
+}
+
+.oddNumber {
+    background-color: rgb(240, 162, 201);
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+
+.otherClass {
+    font-size: 24px;
+}
